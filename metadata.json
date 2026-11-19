@@ -1,0 +1,6 @@
+{
+  "name": "ORBITMINE",
+  "description": "An Intelligent Data Mining Framework for Discovering Hidden Patterns in Satellite Orbital Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
